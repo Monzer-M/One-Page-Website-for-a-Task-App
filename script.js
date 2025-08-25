@@ -514,7 +514,7 @@ function setupParallaxEffect() {
     });
 }
 
-//scroll-to-top functionality
+// Add scroll-to-top functionality
 function addScrollToTop() {
     // Create scroll to top button
     const scrollTopBtn = document.createElement('button');
